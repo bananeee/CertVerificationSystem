@@ -1,0 +1,12 @@
+{
+  "name": "CertVerificationSystem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:quangchinh11t1/CertVerificationSystem.git",
+  "author": "HQC",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "dotenv": "^8.2.0"
+  }
+}
